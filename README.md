@@ -3,5 +3,5 @@
 
 <h2>Screenshot</h2>
 <p>
-  <img src="">
+  <img src="https://raw.githubusercontent.com/DjalmoCruzJr/onlinetutorials-tutorial-glowing-animated-effect-in-html-and-css/master/screenshot/screenshot.gif">
 <p>
