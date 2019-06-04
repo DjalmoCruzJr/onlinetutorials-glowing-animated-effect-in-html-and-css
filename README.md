@@ -3,7 +3,7 @@
 
 
 <h2>Preview</h2>
-<a href="https://djalmocruzjr.github.io/onlinetutorials-tutorial-glowing-animated-effect-in-html-and-css/" target="_blank">https://djalmocruzjr.github.io/onlinetutorials-tutorial-glowing-animated-effect-in-html-and-css</a>
+<a href="https://djalmocruzjr.github.io/tutorial-onlinetutorials-glowing-animated-effect-in-html-and-css/" target="_blank">https://djalmocruzjr.github.io/tutorial-onlinetutorials-glowing-animated-effect-in-html-and-css/</a>
 
 
 <h2>Screenshot</h2>
